@@ -1,0 +1,6 @@
+{
+	"c": {
+		"description": "Сказать шепотом",
+		"args": ["Текст"],
+		"lastString": true
+	},
